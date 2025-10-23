@@ -31,14 +31,14 @@ body {
   transform: rotate(-3deg);
   background-color: #fff176;
 }
-
-.postit:nth-child(2) { background-color: #a5d6a7; transform: rotate(2deg); }
-.postit:nth-child(3) { background-color: #90caf9; transform: rotate(-1deg); }
-.postit:nth-child(4) { background-color: #f48fb1; transform: rotate(4deg); }
-.postit:nth-child(5) { background-color: #ce93d8; transform: rotate(-2deg); }
-.postit:nth-child(6) { background-color: #fff59d; transform: rotate(1deg); }
-.postit:nth-child(7) { background-color: #ffe082; transform: rotate(-4deg); }
-.postit:nth-child(8) { background-color: #d7ccc8; transform: rotate(2deg);}
+.postit:nth-child(1) { background-color: #F7F7C5; transform: rotate(1deg); }
+.postit:nth-child(2) { background-color:  #C6F6C9; transform: rotate(2deg); }
+.postit:nth-child(3) { background-color: #C5C5F0; transform: rotate(-1deg); }
+.postit:nth-child(4) { background-color: #C4F4C6; transform: rotate(4deg); }
+.postit:nth-child(5) { background-color: #F6F6C4; transform: rotate(-2deg); }
+.postit:nth-child(6) { background-color: #9899AC; transform: rotate(1deg); }
+.postit:nth-child(7) { background-color: #E8E9B2; transform: rotate(-4deg); }
+.postit:nth-child(8) { background-color: #B9DEBC; transform: rotate(2deg);}
 
 .titolo {
   font-weight: bold;
